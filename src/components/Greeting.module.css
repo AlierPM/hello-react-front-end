@@ -1,0 +1,10 @@
+.greeting {
+  text-align: center;
+  padding: 2rem;
+}
+
+.greeting h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  background-color: aqua;
+}
